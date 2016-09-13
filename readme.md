@@ -13,3 +13,8 @@ To make these simple tests was used the following technologies:
 
   - [Lazarus](http://www.lazarus-ide.org/) (version 1.6.0, fpc-3.0.0, 64bits)
   - [Sqlite](https://www.sqlite.org/) (version 3.14.2, Precompiled Binaries for Windows)
+
+For the default size of the files was used common sense and the following references:
+
+  - [Average File Sizes](http://blog.online-convert.com/average-file-sizes/)
+  - [Today's Media File Sizes - What's Average?](http://filecatalyst.com/todays-media-file-sizes-whats-average/)
